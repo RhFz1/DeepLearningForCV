@@ -8,5 +8,5 @@
 #### Sigmoid on vectors
 #### Multilayer Perceptron using Sklearn
 `Week_3`
-#### Gradient Descent
-#### Stochastic Gradient Descent
+#### Gradient Descent (Numpy)
+#### Stochastic Gradient Descent (Numpy)
