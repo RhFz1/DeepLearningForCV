@@ -7,3 +7,6 @@
 #### Single Perceptron (WO Backprop.)
 #### Sigmoid on vectors
 #### Multilayer Perceptron using Sklearn
+`Week_3`
+#### Gradient Descent
+#### Stochastic Gradient Descent
